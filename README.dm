@@ -29,6 +29,17 @@ The project includes the following simulation models:
      - Grass grows, spreads, and is consumed by herbivores.
      - Future expansions will introduce herbivores and predators.
 
+- 4.2 Predator-Prey Simulation (Part 2: Herbivores)
+     - Introduces herbivores to the ecosystem.
+     - Herbivores move, eat grass, and reproduce.
+     - Simulates population dynamics between grass and herbivores.
+
+- 5. Fire Evacuation Simulation
+     - Models emergency evacuation during a fire incident.
+     - Simulates people finding optimal evacuation routes.
+     - Agents include people, fire zones, and exit points.
+     - Demonstrates crowd behavior and pathfinding algorithms.
+
 #Installation and Requirements
 
 To run these models, you need:
